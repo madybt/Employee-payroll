@@ -1,4 +1,4 @@
-# Employee-payroll
+
 This website has been modified to be used as an employee payroll tracker.
 By adding the names and salaries you will get the average of salaries between employees.
 
