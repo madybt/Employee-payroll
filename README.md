@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# Employee-payroll
-=======
 # Employee-payroll
 This website has been modified to be used as an employee payroll tracker.
 By adding the names and salaries you will get the average of salaries between employees.
@@ -12,4 +9,3 @@ The index.html code can be found in the main branch in the index.html file.The C
 Here is a preview of the website. The images can also be gound under the tab images in the main branch
 ![alt text](<images/payroll tracker.jpg>)
 ![alt text](<images/console description.jpg>)
->>>>>>> cc191ca (second commit)
