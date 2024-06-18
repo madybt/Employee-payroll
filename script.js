@@ -8,7 +8,7 @@ const collectEmployees = function() {
 
   let keepGoing = true;
 
-  // Loop until the user chooses to stop
+  // Keep going until user decides to stop
   while (keepGoing) {
     // Get user input for an employee
     const firstName = prompt("Enter first name:");
@@ -20,7 +20,7 @@ const collectEmployees = function() {
       salary = 0;
     }
 
-    // Create an employee object
+    // Employee object
     const employee = {
       firstName: firstName,
       lastName: lastName,
@@ -31,7 +31,7 @@ const collectEmployees = function() {
     // Add the employee object to the end of the employees array
     employees.push(employee);
 
-    // Ask the user if they want to continue adding employees
+    //Do you want to keep adding data?
     keepGoing = confirm("Do you want to add another employee?");
   }
 
